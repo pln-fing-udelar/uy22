@@ -59,3 +59,16 @@ sentence-splitter](https://github.com/pln-fing-udelar/sentence-splitter)
 ```
 
 The concatenations of these files were used to train a [RoBERTa-like LM](https://huggingface.co/pln-udelar/roberta-base-uy22-cased) using the [HuggingFace](https://github.com/huggingface) library, and can be found here [huggingface.co/datasets/pln-udelar/uy22](https://huggingface.co/datasets/pln-udelar/uy22) or here [archive.org](https://archive.org/details/uy22-raw).
+
+
+### Cite this work
+
+```
+@inproceedings{rouberta2024,
+  title={A Language Model Trained on Uruguayan Spanish News Text},
+  author={Filevich, Juan Pablo and Marco, Gonzalo and Castro, Santiago and Chiruzzo, Luis and Ros{\'a}, Aiala},
+  booktitle={Proceedings of the Second International Workshop Towards Digital Language Equality (TDLE): Focusing on Sustainability@ LREC-COLING 2024},
+  pages={53--60},
+  year={2024}
+}
+```
